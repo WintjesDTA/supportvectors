@@ -1,0 +1,36 @@
+\documentclass[•]{article}
+\usepackage{graphicx, float}
+
+\author{Tijmen Wintjes}
+\title{Support Vector Classification \\ Session 1}
+\begin{document}
+
+\maketitle
+
+
+\section*{}
+
+
+\subsection*{1.1 A simple example}
+As the model generating the data is normal, every decision boundary drawn might not be perfect. Although there is a good chance that for clouds with centers further apart the data will not overlap. The figure below shows a possible decision boundary for the two classes. 
+
+\begin{figure}[h!]
+\includegraphics[scale=.5]{plotex11.jpg}
+\caption{Two random clouds of data and estimated decision boundary}
+\end{figure}
+
+\subsection*{1.2 Online Stanford SVM Demo}
+\begin{enumerate}
+\item Points of the same class barely affect the boundaries. 
+\item Missclassifications change the boundaries very fast. 
+\item Decreasing the parameter $c$ makes points far from the boundary more important. 
+\item For small sigma the number of points in a class becomes very important. The data points influence a large area and the main criteria becomes which class already has the most points in it. For big sigma the non-linearity disappears. The support-vectors only affect a very small area around them.
+\item For small $\sigma$ the RBF-kernel is more non-linear, for larger $\sigma$ it is almost equal to the linear kernel. A big $c$ means a big penalty on miss-classification, which creates strong non-linearities.
+\item The support vectors are those points used in the calculation of the decision boundary, or classification. A particular datapoint becomes a Support Vector when it is used in the calculation of the decision boundary, when it is close to it. 
+\item The importance of a Support Vector does for example change when a new point is added that moves the boundary further from the previous Support Vector. It is not needed anymore as the new point has taken over its functionality. 
+\end{enumerate}
+
+\subsection*{1.3 Using LS-SVMlab}
+
+
+\end{document}

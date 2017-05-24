@@ -1,0 +1,356 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2017.4.26)  13 MAY 2017 17:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**session1.tex
+(./session1.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, du
+tch, loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/02/03 v3.3-65 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/02/03 v1.5-62 caption3 kernel (AR)
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count89
+Package caption Info: float package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count90
+\c@subtable=\count91
+)
+
+LaTeX Warning: Unused global option(s):
+    [•].
+
+(./session1.aux)
+\openout1 = `session1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen112
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen113
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+
+<plotex11.jpg, id=1, 562.1pt x 421.575pt>
+File: plotex11.jpg Graphic file (type jpg)
+ <use plotex11.jpg>
+Package pdftex.def Info: plotex11.jpg used on input line 30.
+(pdftex.def)             Requested size: 281.04932pt x 210.78697pt.
+ [1
+
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./plotex11.j
+pg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 38.
+
+<13figlin.jpg, id=11, 570.13pt x 411.5375pt>
+File: 13figlin.jpg Graphic file (type jpg)
+ <use 13figlin.jpg>
+Package pdftex.def Info: 13figlin.jpg used on input line 51.
+(pdftex.def)             Requested size: 172.5pt x 124.51088pt.
+
+<13fig1.jpg, id=12, 904.37875pt x 576.1525pt>
+File: 13fig1.jpg Graphic file (type jpg)
+ <use 13fig1.jpg>
+Package pdftex.def Info: 13fig1.jpg used on input line 59.
+(pdftex.def)             Requested size: 82.80115pt x 52.7482pt.
+
+<13fig2.jpg, id=13, 562.1pt x 421.575pt>
+File: 13fig2.jpg Graphic file (type jpg)
+ <use 13fig2.jpg>
+Package pdftex.def Info: 13fig2.jpg used on input line 62.
+(pdftex.def)             Requested size: 82.80115pt x 62.10136pt.
+
+<13fig3.jpg, id=14, 562.1pt x 421.575pt>
+File: 13fig3.jpg Graphic file (type jpg)
+ <use 13fig3.jpg>
+Package pdftex.def Info: 13fig3.jpg used on input line 65.
+(pdftex.def)             Requested size: 82.80115pt x 62.10136pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./13figlin.jpg>] <13errorplot.jpg, id=20, 757.83125pt x 554.07pt>
+File: 13errorplot.jpg Graphic file (type jpg)
+
+<use 13errorplot.jpg>
+Package pdftex.def Info: 13errorplot.jpg used on input line 73.
+(pdftex.def)             Requested size: 172.5pt x 126.11453pt.
+ <13errplot2.jpg, id=21, 562.1pt x 421.575pt>
+File: 13errplot2.jpg Graphic file (type jpg)
+
+<use 13errplot2.jpg>
+Package pdftex.def Info: 13errplot2.jpg used on input line 77.
+(pdftex.def)             Requested size: 172.5pt x 129.37462pt.
+ [3 <./13fig1.jpg> <./13fig2.jpg> <./13fig3.jpg> <./13errorplot.jpg> <./13errpl
+ot2.jpg>] <hypparerr.jpg, id=25, 562.1pt x 421.575pt>
+File: hypparerr.jpg Graphic file (type jpg)
+
+<use hypparerr.jpg>
+Package pdftex.def Info: hypparerr.jpg used on input line 82.
+(pdftex.def)             Requested size: 172.5pt x 129.37462pt.
+ <crossvalplot.jpg, id=26, 554.07pt x 431.6125pt>
+File: crossvalplot.jpg Graphic file (type jpg)
+
+<use crossvalplot.jpg>
+Package pdftex.def Info: crossvalplot.jpg used on input line 85.
+(pdftex.def)             Requested size: 172.5pt x 134.37146pt.
+ [4 <./hypparerr.jpg> <./crossvalplot.jpg>]
+<roccurve.jpg, id=30, 562.1pt x 421.575pt>
+File: roccurve.jpg Graphic file (type jpg)
+ <use roccurve.jpg>
+Package pdftex.def Info: roccurve.jpg used on input line 104.
+(pdftex.def)             Requested size: 172.5pt x 129.37462pt.
+
+<ripleyplot.jpg, id=31, 562.1pt x 421.575pt>
+File: ripleyplot.jpg Graphic file (type jpg)
+ <use ripleyplot.jpg>
+Package pdftex.def Info: ripleyplot.jpg used on input line 115.
+(pdftex.def)             Requested size: 124.19963pt x 93.1456pt.
+
+<ripleylin.jpg, id=32, 562.1pt x 421.575pt>
+File: ripleylin.jpg Graphic file (type jpg)
+ <use ripleylin.jpg>
+Package pdftex.def Info: ripleylin.jpg used on input line 118.
+(pdftex.def)             Requested size: 124.19963pt x 93.1456pt.
+ [5 <./roccurve.jpg> <./ripleyplot.jpg> <./ripleylin.jpg>]
+<rbfplotripley.jpg, id=37, 554.07pt x 431.6125pt>
+File: rbfplotripley.jpg Graphic file (type jpg)
+ <use rbfplotripley.jpg>
+Package pdftex.def Info: rbfplotripley.jpg used on input line 125.
+(pdftex.def)             Requested size: 172.5pt x 134.37146pt.
+
+<rocrbf.jpg, id=38, 562.1pt x 421.575pt>
+File: rocrbf.jpg Graphic file (type jpg)
+ <use rocrbf.jpg>
+Package pdftex.def Info: rocrbf.jpg used on input line 132.
+(pdftex.def)             Requested size: 124.19963pt x 93.1456pt.
+
+<roclin.jpg, id=39, 562.1pt x 421.575pt>
+File: roclin.jpg Graphic file (type jpg)
+ <use roclin.jpg>
+Package pdftex.def Info: roclin.jpg used on input line 135.
+(pdftex.def)             Requested size: 124.19963pt x 93.1456pt.
+
+<pcaplotbreast.jpg, id=40, 570.13pt x 411.5375pt>
+File: pcaplotbreast.jpg Graphic file (type jpg)
+ <use pcaplotbreast.jpg>
+Package pdftex.def Info: pcaplotbreast.jpg used on input line 145.
+(pdftex.def)             Requested size: 172.5pt x 124.51088pt.
+
+[6 <./rbfplotripley.jpg> <./rocrbf.jpg> <./roclin.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
+
+ []
+
+<rocrbfbreast.jpg, id=44, 554.07pt x 431.6125pt>
+File: rocrbfbreast.jpg Graphic file (type jpg)
+ <use rocrbfbreast.jpg>
+Package pdftex.def Info: rocrbfbreast.jpg used on input line 154.
+(pdftex.def)             Requested size: 124.19963pt x 96.74638pt.
+
+<roclinbreast.jpg, id=45, 570.13pt x 411.5375pt>
+File: roclinbreast.jpg Graphic file (type jpg)
+ <use roclinbreast.jpg>
+Package pdftex.def Info: roclinbreast.jpg used on input line 157.
+(pdftex.def)             Requested size: 124.19963pt x 89.64684pt.
+
+<pcadiabetes.jpg, id=46, 562.1pt x 421.575pt>
+File: pcadiabetes.jpg Graphic file (type jpg)
+ <use pcadiabetes.jpg>
+Package pdftex.def Info: pcadiabetes.jpg used on input line 164.
+(pdftex.def)             Requested size: 172.5pt x 129.37462pt.
+ [7 <./pcaplotbreast.jpg> <./rocrbfbreast.jpg> <./roclinbreast.jpg>]
+<linbreast.jpg, id=51, 570.13pt x 411.5375pt>
+File: linbreast.jpg Graphic file (type jpg)
+ <use linbreast.jpg>
+Package pdftex.def Info: linbreast.jpg used on input line 170.
+(pdftex.def)             Requested size: 124.19963pt x 89.64684pt.
+
+<rbfbreast.jpg, id=52, 562.1pt x 421.575pt>
+File: rbfbreast.jpg Graphic file (type jpg)
+ <use rbfbreast.jpg>
+Package pdftex.def Info: rbfbreast.jpg used on input line 173.
+(pdftex.def)             Requested size: 124.19963pt x 93.1456pt.
+
+<rocrbfdiabetes.jpg, id=53, 570.13pt x 411.5375pt>
+File: rocrbfdiabetes.jpg Graphic file (type jpg)
+ <use rocrbfdiabetes.jpg>
+Package pdftex.def Info: rocrbfdiabetes.jpg used on input line 183.
+(pdftex.def)             Requested size: 124.19963pt x 89.64684pt.
+
+<roclindiabetes.jpg, id=54, 570.13pt x 411.5375pt>
+File: roclindiabetes.jpg Graphic file (type jpg)
+ <use roclindiabetes.jpg>
+Package pdftex.def Info: roclindiabetes.jpg used on input line 186.
+(pdftex.def)             Requested size: 124.19963pt x 89.64684pt.
+
+[8 <./pcadiabetes.jpg> <./linbreast.jpg> <./rbfbreast.jpg> <./rocrbfdiabetes.jp
+g> <./roclindiabetes.jpg>] (./session1.aux) ) 
+Here is how much of TeX's memory you used:
+ 2729 strings out of 495008
+ 43194 string characters out of 3180933
+ 96817 words of memory out of 3000000
+ 5891 multiletter control sequences out of 15000+200000
+ 7587 words of font info for 27 fonts, out of 3000000 for 9000
+ 54 hyphenation exceptions out of 8191
+ 38i,9n,38p,621b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on session1.pdf (8 pages, 731983 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
